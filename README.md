@@ -10,7 +10,7 @@
   <br>
   <a href="https://github.com/shash-hq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shash-hq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shash-hq&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shash-hq&theme=radical&langs_count=8"/>
   </a>
 </div>
 

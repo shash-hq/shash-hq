@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Shashank! 👋
+# Hello folks, I'm Shashank! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2028F7&center=true&vCenter=true&width=435&lines=Product+Engineer;Builder;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2028F7&center=true&vCenter=true&width=435&lines=Product+Engineer;Builder;Open+Source+Geek)](https://git.io/typing-svg)
 
 ---
 
-### 📊 Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shash-hq&show_icons=true&theme=radical" alt="Shashank's GitHub Stats" />

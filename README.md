@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stacks
 
 <p align="center">
 <a href="https://skillicons.dev">

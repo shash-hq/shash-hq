@@ -6,14 +6,6 @@
 
 ---
 
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shash-hq&show_icons=true&theme=radical" alt="Shashank's GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shash-hq&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
-</p>
-
----
-
 ###  Tech Stacks
 
 <p align="center">
